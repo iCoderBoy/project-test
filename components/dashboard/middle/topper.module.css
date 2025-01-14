@@ -1,0 +1,15 @@
+.toppers_item:nth-child(1){
+    background: url(/images/first.png) no-repeat;
+    background-size: cover;
+    background-position: center;    
+}
+.toppers_item:nth-child(2){
+    background: url(/images/second.png) no-repeat;
+    background-size: cover;
+    background-position: center;    
+}
+.toppers_item:nth-child(3){
+    background: url(/images/third.png) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
